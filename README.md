@@ -1,9 +1,9 @@
 # InstaPay System
-## Description:
+### Description:
 
 This project implements an Instapay-like system that allows users to transfer money or pay their bills using a variety of services. The system supports the following functionalities:
 
-# Services:
+## Services:
 1-Transfer to Another Instapay Account: Users can transfer money to other Instapay users.
 
 2-Transfer to Bank Account: Users registered with their bank account can transfer money to any bank account.
