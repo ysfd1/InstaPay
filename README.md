@@ -3,10 +3,10 @@ Description
 This project implements an Instapay-like system that allows users to transfer money or pay their bills using a variety of services. The system supports the following functionalities:
 
 # Services:
-1-Transfer to Another Instapay Account: Users can transfer money to other Instapay users.
-2-Transfer to Bank Account: Users registered with their bank account can transfer money to any bank account.
-3-Transfer to a Mobile Wallet: Users can transfer money to mobile wallets provided by telecommunications companies (e.g., Vodafone Cash), banks (e.g., CIB), or electronic payment companies (e.g., Fawry).
-4-Pay Utilities’ Bills: Users can pay for Gas, Electricity, or Water bills.
+*1-Transfer to Another Instapay Account: Users can transfer money to other Instapay users.
+*2-Transfer to Bank Account: Users registered with their bank account can transfer money to any bank account.
+*3-Transfer to a Mobile Wallet: Users can transfer money to mobile wallets provided by telecommunications companies (e.g., Vodafone Cash), banks (e.g., CIB), or electronic payment companies (e.g., Fawry).
+*4-Pay Utilities’ Bills: Users can pay for Gas, Electricity, or Water bills.
 
 # Requirements
 User Registration and Authentication
