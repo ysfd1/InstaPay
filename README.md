@@ -1,5 +1,5 @@
 # InstaPay System
-### Description:
+## Description:
 
 This project implements an Instapay-like system that allows users to transfer money or pay their bills using a variety of services. The system supports the following functionalities:
 
@@ -12,7 +12,7 @@ This project implements an Instapay-like system that allows users to transfer mo
 
 4-Pay Utilities’ Bills: Users can pay for Gas, Electricity, or Water bills.
 
-# Requirements
+## Requirements
 
 User Registration and Authentication
 
@@ -30,7 +30,7 @@ User Registration and Authentication
 
 3-Sign In: Users can sign in using their Instapay username and password. Upon logging in, the user profile is loaded based on the user type.
 
-# User Capabilities
+## User Capabilities
 
 1-Transfer to Wallet: Users can transfer money to a wallet using a mobile number.
 
